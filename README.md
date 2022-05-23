@@ -26,10 +26,8 @@ You have to submit the following files:
 
 ## home page :
 
-![](https://paper-attachments.dropbox.com/s_A62BAA18E072C17CB13B44953D7699BA7D20B7D65FF3A4EBD55A67B40379ED93_1653301348661_Screen+Shot+1443-10-22+at+1.21.30+PM.png)
-
+![Screenshot (359)](https://user-images.githubusercontent.com/63616896/169824828-d4bf1c63-d1d2-4829-8aee-119652811cf8.png)
 
 ## about page :
 
-![](https://paper-attachments.dropbox.com/s_A62BAA18E072C17CB13B44953D7699BA7D20B7D65FF3A4EBD55A67B40379ED93_1653301355491_Screen+Shot+1443-10-22+at+1.21.43+PM.png)
-
+![Screenshot (358)](https://user-images.githubusercontent.com/63616896/169824908-0072139d-6760-4c04-9a7d-34c12dcacc76.png)
