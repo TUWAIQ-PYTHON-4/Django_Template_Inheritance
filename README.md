@@ -24,12 +24,12 @@ You have to submit the following files:
 - base.html, home.html and about.html.
 - Screenshoot of your home and about pages.
 
-## Your home page should be like:
+## home page :
 
 ![](https://paper-attachments.dropbox.com/s_A62BAA18E072C17CB13B44953D7699BA7D20B7D65FF3A4EBD55A67B40379ED93_1653301348661_Screen+Shot+1443-10-22+at+1.21.30+PM.png)
 
 
-## Your about page should be like:
+## about page :
 
 ![](https://paper-attachments.dropbox.com/s_A62BAA18E072C17CB13B44953D7699BA7D20B7D65FF3A4EBD55A67B40379ED93_1653301355491_Screen+Shot+1443-10-22+at+1.21.43+PM.png)
 
