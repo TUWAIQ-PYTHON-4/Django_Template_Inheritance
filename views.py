@@ -8,4 +8,5 @@ def home(request):
 
 
 def about(request):
-    return render(request, 'about.html')
+    x = "Rahaf Adel Alrowithi"
+    return render(request, 'about.html',{"x":x})
