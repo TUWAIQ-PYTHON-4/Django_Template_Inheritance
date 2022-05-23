@@ -7,6 +7,5 @@ def home(request):
         return render(request, "home.html")
 
 def about(request):
-        fname="Ruba"
-        lname='Almohya'
-        return render(request, "about.html",{"fname":fname ,'lname':lname})
+        cont={'fname': 'Ruba','lname':'Amohya'}
+        return render(request, "about.html", {"cont":cont})
