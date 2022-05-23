@@ -13,5 +13,6 @@ def home(request):
 
 
 def about(request):
-    name = "Ali Mushbari"
-    return render(request, "about.html", {"name": name})
+    fname = "Ali " ,
+    lname = " Mushbari"
+    return render(request, "about.html", {"fname": fname,"Lname": lname})
