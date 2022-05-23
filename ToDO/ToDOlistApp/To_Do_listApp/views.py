@@ -8,4 +8,4 @@ def home(request):
 
 def about(request):
         cont={'fname': 'Ruba','lname':'Amohya'}
-        return render(request, "about.html", {"cont":cont})
+        return render(request, "about.html", cont)
